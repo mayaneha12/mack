@@ -16,3 +16,5 @@ EJB
 SQL 
 MySQL
 Oracle
+Oracle 10g
+Oracle 12c
