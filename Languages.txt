@@ -11,3 +11,8 @@ Pearl
 spring Framework
 Struts
 EJB
+
+
+SQL 
+MySQL
+Oracle
