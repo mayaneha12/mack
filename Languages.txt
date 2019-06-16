@@ -7,3 +7,7 @@ XML
 Python
 Cobol
 Pearl
+
+spring Framework
+Struts
+EJB
